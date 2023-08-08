@@ -14,4 +14,4 @@
 # Refreshing auto scaling group
   python asg.py
   
-https://img.shields.io/badge/commitactivity?style=flat&logo=github&logoColor=abcdef
+
